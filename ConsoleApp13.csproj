@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5CF635F3-CF6B-4998-A186-4A4ADB977C04}</ProjectGuid>
+    <ProjectGuid>{B4EA90A1-EF68-41E3-B594-C45DA212D157}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp12</RootNamespace>
-    <AssemblyName>ConsoleApp12</AssemblyName>
+    <RootNamespace>ConsoleApp13</RootNamespace>
+    <AssemblyName>ConsoleApp13</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Podzadanie1.cs" />
+    <Compile Include="Podzadanie2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
